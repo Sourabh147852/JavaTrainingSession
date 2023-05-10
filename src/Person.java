@@ -14,8 +14,13 @@ public class Person {
     }
 
     public void PersonDetails() {
-        System.out.println("Person Name is " + name + " and age" + age);
+
+        if (age == 0) {
+            System.out.println("Person Name is " + name);
+        } else {
+            System.out.println("Person Name is " + name + " and age" + age);
+        }
+
+
     }
-
-
 }
