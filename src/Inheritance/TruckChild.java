@@ -10,7 +10,7 @@ package Inheritance;
             super(vn, rnum);
             this.load_capacity=lc;
         }
-    public void allinfo(){
+    public void vehicleInfo(){
         System.out.println("Vehicle name is " +name+" and Vehicle Registration number is " +number+" Load Capacity is " +load_capacity);
 
     }
