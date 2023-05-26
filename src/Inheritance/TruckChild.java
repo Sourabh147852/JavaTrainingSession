@@ -6,6 +6,7 @@ package Inheritance;
 //   int number=0;       properties and behaviors of VehicleParent class there we consider that now we have
 //                       name and number variable in this class)
     String load_capacity=null;
+    //TruckChild is a constractor
     public TruckChild(String vn, int rnum, String lc ){
             super(vn, rnum);
             this.load_capacity=lc;

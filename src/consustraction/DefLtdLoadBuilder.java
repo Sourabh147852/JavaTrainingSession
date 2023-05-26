@@ -1,9 +1,27 @@
 package consustraction;
 
 public class DefLtdLoadBuilder {
-    String experiance();
-    float budget();
-    void takeroadspecs(String spec);
-    void setlocation (String location);
-    String getprogram();
+
+    public DefLtdLoadBuilder(String defLtdLoadBuilder) {
+    }
+
+    String experiance() {
+        return null;
+    }
+
+    float budget() {
+        return 0;
+    }
+
+    void takeroadspecs(String spec) {
+
+    }
+
+    void setlocation(String location) {
+        
+    }
+
+    String getprogram() {
+        return null;
+    }
 }

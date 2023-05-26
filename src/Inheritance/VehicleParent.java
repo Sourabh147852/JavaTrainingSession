@@ -9,7 +9,7 @@ public class VehicleParent {
         this.name=vename;
         this.number=vregisnum;
     }
-    public void vqehicleInfo(){
+    public void vehicleInfo(){
         System.out.println("Vehicle name is "+name+ "and Vehicle Registration number is "+number);
     }
 

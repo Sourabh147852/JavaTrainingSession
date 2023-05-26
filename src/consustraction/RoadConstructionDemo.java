@@ -15,7 +15,7 @@ public class RoadConstructionDemo {
         System.out.println(selectedvender.toString());
     }
         private static Roadconstrucation releaseTenderAndSelectContractor(){
-            Roadconstrucation vender1= new DefLtdLoadBuilder("Def Ltd");
+            Roadconstrucation vender1= (Roadconstrucation) new DefLtdLoadBuilder("DefLtdLoadBuilder");
             Roadconstrucation vender2= new AbcLtdRoadBuilder("Abc Limited");
             Roadconstrucation vender3= new Roadconstrucation() {
                 @Override
@@ -43,11 +43,11 @@ public class RoadConstructionDemo {
                     return null;
                 }
             };
-                return vender1
+                return vender1;
 
 
         }
 
     }
-}
+
 

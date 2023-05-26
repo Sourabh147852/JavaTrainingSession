@@ -5,6 +5,7 @@ import java.util.Scanner;
     private int english=0;
     private Scanner scanner= new Scanner(System.in);
 
+        //constructor
     public Adder (int i1, int i2){
         this.hindi= i1;
         this.english=i2;
