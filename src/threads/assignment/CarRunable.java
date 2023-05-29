@@ -2,12 +2,15 @@ package threads.assignment;
 
 public class CarRunable implements Runnable {
 
+    private String name;
     public CarRunable(String name) {
-        setName.
+        this.name = name;
     }
-
     @Override
     public void run() {
-        System.out.println("Car "+getName()+ " reached destinatiom");
+
+        for (int i=0; i<10; i++){
+            System.out.println("Printing number"+i+"from thread"+name);
+        }
     }
 }

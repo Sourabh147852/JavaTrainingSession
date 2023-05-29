@@ -5,43 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0226cce0-d524-46ed-8be7-0cb53798857b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/EmailValidationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/ExceptionPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/MailValidatorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/HashValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/HashValidationMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Implements/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Implements/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Implements/PersonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Implements/Salaried.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectEqualCheck/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectEqualCheck/PersonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BankMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StaticDifference/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Try/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Try/SameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Try/Samle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Try/Try.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/assignment/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/assignment/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/assignment/CarRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/session/MyRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/session/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/session/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threads/session/ThreadRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trywithresource/ConnDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trywithresource/ResourceNotAvailableExecption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstract/ShapeParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstract/ShapeParent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/TruckChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/TruckChild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/VehicleParent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/VehicleParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Assignment/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Assignment/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Assignment/PersonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ListArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Sourabh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfacce/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threads/assignment/CarRunnerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implements/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implements/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implements/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implements/PersonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implements/PersonDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implements/Salaried.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Notes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Notes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/consustraction/AbcLtdRoadBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consustraction/AbcLtdRoadBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consustraction/DefLtdLoadBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consustraction/DefLtdLoadBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/consustraction/RoadConstructionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consustraction/RoadConstructionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/consustraction/RoadConstructionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/consustraction/Roadconstrucation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/consustraction/Roadconstrucation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/assignment/CarRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/assignment/CarRunable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -78,9 +59,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarMain">
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.assignment.CarMain" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Collection.Assignment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PersonMain">
+    <configuration name="CarRunnerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threads.assignment.CarRunnerMain" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.ExceptionPractice" />
+    <configuration name="ListArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.ListArray" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.MainClass" />
+    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Assignment.PersonMain" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="PATTERN" value="Collection.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.session.RunnableDemo" />
+    <configuration name="Sourabh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Sourabh" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threads.session.*" />
+          <option name="PATTERN" value="Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threads.session.ThreadRunner" />
+    <configuration name="ToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Assignment.ToArray" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threads.session.*" />
+          <option name="PATTERN" value="Collection.Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.ThreadRunner" />
-        <item itemvalue="Application.RunnableDemo" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.ExceptionPractice" />
+        <item itemvalue="Application.PersonMain" />
+        <item itemvalue="Application.ToArray" />
+        <item itemvalue="Application.ListArray" />
+        <item itemvalue="Application.Sourabh" />
+        <item itemvalue="Application.CarRunnerMain" />
       </list>
     </recent_temporary>
   </component>

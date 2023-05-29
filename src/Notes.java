@@ -31,3 +31,7 @@
 
 //how to create customer exception
 //Throws? throw?
+
+//What is collection is java?
+//Collection is interface which extends to Iterable and Iterable as Iterater as method and an Iterater as multiple method
+//like;- hasnext, next, remove
